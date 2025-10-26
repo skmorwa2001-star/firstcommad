@@ -1,0 +1,8 @@
+for 1st time
+ git config --global user.name "skmorwa2001-star"
+ git config --global user.email "skmorwa2001@gmail.com"
+ git config --global color.ui auto
+
+ mandatory commands
+  >> git init
+  >>  
